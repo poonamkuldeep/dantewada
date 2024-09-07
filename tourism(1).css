@@ -1,0 +1,105 @@
+/* Styles for the entire body */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #d86565;
+    color: #333;
+}
+
+/* Centered content with padding */
+center {
+    padding: 10px;
+}
+
+/* Header styles */
+h1, h2 {
+    color: #2f4f4f;
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Georgia', serif;
+}
+
+/* Section styles with margin and padding */
+section {
+    margin: 20px;
+    padding: 20px;
+    background: #f8b23a;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Paragraph styles with line height */
+p {
+    line-height: 1.8;
+    margin: 10px 0;
+}
+
+/* Image styles with width and border */
+img {
+    width: 150%;
+    max-width: 800px;
+    height: auto;
+    display: block;
+    margin: 0 auto 13px;
+    border-radius: 10px;
+}
+
+/* Anchor link styles */
+a {
+    color: #006400;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #8b0000;
+}
+
+/* Styles for audio element */
+audio {
+    display: block;
+    margin: 20px auto;
+}
+
+/* Container for the main content */
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Specific styles for different sections */
+.danteshwari-temple {
+    background: #e6a72a;
+}
+
+.dholkal {
+    background: #20e482;
+}
+
+.barsur-temples {
+    background: #ed5688;
+}
+
+.ganesh-temple {
+    background: #5aec5a;
+}
+
+.mama-bhanja-temple {
+    background: #59abf4;
+}
+
+.battisa-temple {
+    background: #e6e64a;
+}
+
+.satdhar-waterfall {
+    background: #64f1e1;
+}
+
+.phoolpad-waterfall {
+    background: #5858ba;
+}

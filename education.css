@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
+    margin: 20px 0;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.school{
+    background-color: #ffeb3b; /* Yellow */
+}
+
+.middle {
+    background-color: #8bc34a; /* Light Green */
+}
+
+.higher {
+    background-color: #03a9f4; /* Light Blue */
+}
+
+.saksham {
+    background-color: #ff9800; /* Orange */
+}
+
+jawahar {
+    color: #4CAF50;
+}
+
+.school {
+    margin: 20px 0;
+}
+
+.school img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.school h3 {
+    margin: 10px 0 5px;
+}
+
+.school p {
+    margin: 5px 0;
+}
+
+.school a {
+    display: inline-block;
+    margin: 10px 0;
+    padding: 10px 20px;
+    color: white;
+    background-color: #4CAF50;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
